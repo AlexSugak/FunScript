@@ -15,4 +15,5 @@ nuget Nuget.CommandLine
 nuget Nunit
 nuget fake
 nuget fparsec
+nuget Argu
 github Reactive-Extensions/RxJS dist/rx.all.js
